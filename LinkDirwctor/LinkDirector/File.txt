@@ -1,0 +1,17 @@
+# Objective
+The exercise consists in implementing a simple text editor with a very specific feature related to links.
+
+When there’s no caret in the notes, the keyboard is not visible:
+
+You can navigate the document normally.
+You also can tap on a link to open it.
+If you tap on any other place than a link, the caret should be put at that location (or the closest possible), and the keyboard should open.
+When the caret is displayed and the keyboard visible
+
+You should be able to edit text normally, and also edit link like any normal text.
+You also still can tap on any link to open it.
+If you retract the keyboard, the caret should disappear.
+If you click a link, the caret & the keyboard should disappear.
+🎯 The goal is to provide something solid. We should not be able to break it in 2 minutes!
+
+creat this featuew in swiftui
